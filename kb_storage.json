@@ -1,0 +1,182 @@
+{
+  "email_1771351908.318881": {
+    "type": "email",
+    "data": {
+      "id": "email_1771351908.318881",
+      "title": "Thanks and Congratulations on your new role",
+      "content": "Hi Ghanasham, It has been a pleasure to see you grow and as recognition of your hard work I am promoting you to Chief Data Scientist at BT. In this role your salary is going to be \u00a3300,000 + Bonus. Thanks",
+      "source": "email",
+      "source_id": "gmail_1771351908.318935",
+      "tags": [],
+      "created_at": "2026-02-17 18:11:48.319111",
+      "updated_at": "2026-02-17 18:11:48.319116",
+      "url": null,
+      "sender": "alison.kirkby@bt.com",
+      "recipients": [
+        "you@example.com"
+      ],
+      "subject": "Thanks and Congratulations on your new role"
+    }
+  },
+  "link_1771351964.007193": {
+    "type": "link",
+    "data": {
+      "id": "link_1771351964.007193",
+      "title": "Vibe coding - Andreas Horn",
+      "content": "",
+      "source": "link",
+      "source_id": "https://mail.google.com/mail/u/0/?ui=2&ik=05ec303d56&view=lg&permmsgid=msg-f:1857296850807489942",
+      "tags": [],
+      "created_at": "2026-02-17 18:12:44.007450",
+      "updated_at": "2026-02-17 18:12:44.007455",
+      "url": "https://mail.google.com/mail/u/0/?ui=2&ik=05ec303d56&view=lg&permmsgid=msg-f:1857296850807489942",
+      "domain": "mail.google.com",
+      "description": ""
+    }
+  },
+  "note_1771351995.792307": {
+    "type": "note",
+    "data": {
+      "id": "note_1771351995.792307",
+      "title": "This is a great start to the week of learning",
+      "content": "Awesome well done",
+      "source": "note",
+      "source_id": "note_1771351995.792326",
+      "tags": [],
+      "created_at": "2026-02-17 18:13:15.792471",
+      "updated_at": "2026-02-17 18:13:15.792473",
+      "url": null,
+      "category": "learning"
+    }
+  },
+  "email_1771526764.365866": {
+    "type": "email",
+    "data": {
+      "id": "email_1771526764.365866",
+      "title": "bababdu\\",
+      "content": "ajakdhakfgafgha",
+      "source": "email",
+      "source_id": "gmail_1771526764.372241",
+      "tags": [],
+      "created_at": "2026-02-19 18:46:04.372712",
+      "updated_at": "2026-02-19 18:46:04.372717",
+      "url": null,
+      "sender": "babu",
+      "recipients": [
+        "you@example.com"
+      ],
+      "subject": "bababdu\\"
+    }
+  },
+  "note_1771526845.564458": {
+    "type": "note",
+    "data": {
+      "id": "note_1771526845.564458",
+      "title": "note is here",
+      "content": "note content",
+      "source": "note",
+      "source_id": "note_1771526845.564509",
+      "tags": [],
+      "created_at": "2026-02-19 18:47:25.564595",
+      "updated_at": "2026-02-19 18:47:25.564598",
+      "url": null,
+      "category": "idea"
+    }
+  },
+  "note_1771526974.189812": {
+    "type": "note",
+    "data": {
+      "id": "note_1771526974.189812",
+      "title": "note",
+      "content": "this is the note",
+      "source": "note",
+      "source_id": "note_1771526974.189924",
+      "tags": [],
+      "created_at": "2026-02-19 18:49:34.189999",
+      "updated_at": "2026-02-19 18:49:34.190002",
+      "url": null,
+      "category": "idea"
+    }
+  },
+  "note_1771527288.03072": {
+    "type": "note",
+    "data": {
+      "id": "note_1771527288.03072",
+      "title": "nn",
+      "content": "nnnn",
+      "source": "note",
+      "source_id": "note_1771527288.030769",
+      "tags": [],
+      "created_at": "2026-02-19 18:54:48.030885",
+      "updated_at": "2026-02-19 18:54:48.030887",
+      "url": null,
+      "category": "todo"
+    }
+  },
+  "video_1771688061.868027": {
+    "type": "video",
+    "data": {
+      "id": "video_1771688061.868027",
+      "title": "You tube",
+      "content": "Video: You tube",
+      "source": "video",
+      "source_id": "www.youtube.com",
+      "tags": [],
+      "created_at": "2026-02-21 15:34:21.873728",
+      "updated_at": "2026-02-21 15:34:21.873736",
+      "url": "www.youtube.com",
+      "platform": "youtube",
+      "duration_seconds": null,
+      "channel": "GA"
+    }
+  },
+  "email_1771689646.918891": {
+    "type": "email",
+    "data": {
+      "id": "email_1771689646.918891",
+      "title": "\u001b",
+      "content": "\u001b",
+      "source": "email",
+      "source_id": "gmail_1771689646.924438",
+      "tags": [],
+      "created_at": "2026-02-21 16:00:46.924813",
+      "updated_at": "2026-02-21 16:00:46.924819",
+      "url": null,
+      "sender": "\u001b",
+      "recipients": [
+        "you@example.com"
+      ],
+      "subject": "\u001b"
+    }
+  },
+  "note_1771690306.350017": {
+    "type": "note",
+    "data": {
+      "id": "note_1771690306.350017",
+      "title": "hsmpa",
+      "content": "choahoad",
+      "source": "note",
+      "source_id": "note_1771690306.350046",
+      "tags": [],
+      "created_at": "2026-02-21 16:11:46.350119",
+      "updated_at": "2026-02-21 16:11:46.350122",
+      "url": null,
+      "category": "ad"
+    }
+  },
+  "note_1771690612.724486": {
+    "type": "note",
+    "data": {
+      "id": "note_1771690612.724486",
+      "title": "ahdadh]",
+      "content": "adhaldh",
+      "source": "note",
+      "source_id": "note_1771690612.724609",
+      "tags": [],
+      "created_at": "2026-02-21 16:16:52.724659",
+      "updated_at": "2026-02-21 16:16:52.724661",
+      "url": null,
+      "category": "aldhaldh"
+    }
+  }
+}
